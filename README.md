@@ -16,3 +16,4 @@ Implemented interactive charts and graphs, increasing data visualization efficie
 Enhanced decision-making with accurate KPIs, achieving 95% accuracy in tracking sales growth and customer satisfaction.
 Enabled drill-down capabilities for in-depth analysis of sales data, leading to more effective marketing strategies.
 
+![Amazon Sales Dashboard ](https://github.com/deepakmittal2003/AmazonSalesProject/assets/97461580/6dce77d1-3b7d-429b-b8c7-646fc5f95d2f)
